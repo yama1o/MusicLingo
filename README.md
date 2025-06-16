@@ -16,7 +16,7 @@ MusicLingoは、Spotifyで好きな洋楽を検索し、その歌詞からAIが�
 
 ## 技術スタック
 
-* **言語**: Python 3.8+
+* **言語**: Python 3.10+
 * **主要ライブラリ**:
     * `spotipy`: Spotify Web API連携
     * `lyricsgenius`: Genius API連携・歌詞取得
