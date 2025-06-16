@@ -83,7 +83,7 @@ pip install -r requirements.txt
     * **Google (Gemini)**: [Google AI Studio](https://aistudio.google.com/) で`API Key`を取得。
 
 3.  作成した`.env`ファイルを開き、取得したキーの値をそれぞれの`""`の間に貼り付けて保存します。
-```
+
 
 ## 使用方法
 
