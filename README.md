@@ -37,7 +37,7 @@ MusicLingoは、Spotifyで好きな洋楽を検索し、その歌詞からAIが�
 ### 2. リポジトリのクローン
 
 ```bash
-git clone [https://github.com/your-username/MusicLingo.git](https://github.com/your-username/MusicLingo.git)
+git clone https://github.com/your-username/MusicLingo.git
 cd MusicLingo
 ```
 *(注意: `your-username`の部分はご自身のGitHubユーザー名に置き換えてください)*
