@@ -10,3 +10,6 @@ __pycache__/
 
 # 自動生成されるキャッシュファイルを無視する
 .cache
+
+# 生成したデータ
+learning_data.json
